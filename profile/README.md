@@ -1,6 +1,6 @@
 # Dream Cars
 
-![Car Logo](./car-logo.png)
+![Car Logo](./car_logo.png)
 
 <!--
 
